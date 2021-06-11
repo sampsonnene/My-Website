@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://thekittchen.com/wp-content/uploads/2015/07/IMG_3498.jpg");
+    z-index: 20;
+}
+
+.bg-ltblue{
+    background-color: rgb(96, 166, 185);
+}
+
+.bg-navy{
+    background-color: #14213D;
+}
+
+.bg-accent{
+    background-color: #FCA311;
+}
+
+.txt-gold{
+    color: goldenrod;
+}
+
+.txt-navy{
+    color: #14213D;
+}
+
+.txt-black{
+    color: black;
+}
+
+.txt-accent{
+    color: rgb(96, 166, 185);
+}
+.txt-accent a{
+    color: #FCA311;
+}
+
+.txt-accent a:hover{
+    color: lightgray;
+}
+
+
+.ps-ltblue{
+    background-color: rgb(96, 166, 185);
+    height: 500px;
+    width: 100%;
+}
+
+.border-dark{
+    border-style: double;
+    color: black;
+}
+
+button:hover{
+    color: orange;
+}
