@@ -11,6 +11,6 @@
 
 ## Screenshots
 
-<img src="img/Website1.png" alt="Logo" width="450px" height="335">
+<img src="img/Website1.png" alt="Logo" width="380px" height="220">
 <br>
-<img src="img/Website2.png" alt="Logo" width="450px" height="335">
+<img src="img/Website2.png" alt="Logo" width="380px" height="220">
