@@ -6,7 +6,7 @@
 
 
 
-<a href="https://bbqwebsite.netlify.app/">View Live</a>
+<a href="https://bbqwebsite.netlify.app/">View Website Here</a>
 
 
 ## Screenshots
